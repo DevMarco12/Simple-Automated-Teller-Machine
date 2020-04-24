@@ -76,7 +76,7 @@ public class Main {
                         break;
 
                     case 2:
-                        System.out.println("Digite  o valor do depósito: ");
+                        System.out.println("Digite o valor do depósito: ");
                         deposito = ler.nextLong();
                         ler.nextLine();
                         if (deposito > 0) {
